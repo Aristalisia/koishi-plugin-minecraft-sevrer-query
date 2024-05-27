@@ -1,0 +1,24 @@
+{
+  "name": "koishi-plugin-minecraft-server-query",
+  "description": "自定义mc服务器列表",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.17.6"，
+    "@ahdg/minecraftstatuspinger": "^1.1.5",
+    "fs": "^0.0.1-security"
+    "path": "^0.12.7"
+    
+  }
+}
