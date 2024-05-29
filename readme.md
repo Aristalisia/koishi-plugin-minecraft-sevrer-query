@@ -1,4 +1,4 @@
-# koishi-plugin-minecraft-server-query
+# koishi-plugin-minecraft-server-query V0.0.2
 
 [![npm](https://img.shields.io/npm/v/koishi-plugin-minecraft-server-query?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-minecraft-server-query)
 
@@ -29,14 +29,13 @@
 #### mc.ping [ip]
 
 请求服务器参数
+ping服务器后返回服务器图标
 
 
 
 ### [v0.2预计更新]
 
-1.ping服务器后返回服务器图标
-
-2.服务器列表支持所有群聊公开或独立群聊
+1.服务器列表支持所有群聊公开或独立群聊
 
 [遥远的未来]图形化API接入
 
